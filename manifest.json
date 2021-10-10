@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Search on Google",
+    "name": "Google search",
 	"homepage_url": "https://github.com/SEM-DEV/Search-on-Google-Extension",
-    "version": "2.0",
+    "version": "3.0",
     "description": "Search the selected text on Google",
    
     
