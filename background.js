@@ -2,7 +2,7 @@
  
 
 chrome.contextMenus.create({
-    title: "Search the selection Text on Google",
+    title: "Search the selected Text on Google",
     contexts:["selection"],
     id: "acasearch",
 	onclick: sea1
