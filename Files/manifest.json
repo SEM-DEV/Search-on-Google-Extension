@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Google search",
+	"homepage_url": "https://github.com/SEM-DEV/Search-on-Google-Extension",
+    "version": "4.0",
+    "description": "Search the selected text on Google from the contextMenu.",
+   
+    
+     "background": {
+    "scripts": [ "background.js"]
+  },
+  "permissions": [
+	"contextMenus"
+  ],
+
+    "icons": {
+        "16": "icon_16.png" 
+    }
+    
+   
+}
